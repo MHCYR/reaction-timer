@@ -1,19 +1,11 @@
-# reaction-timer
+# Reaction game
 
-## Project setup
-```
-npm install
-```
+A reaction game tha allowed you to measure your reflexes made with vue3.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to play
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Click on the play button and wait until a box appears, then click the box as fast a you can.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Where to play
+
+You can play in this link https://vue-reaction-timer.netlify.app/
